@@ -1,0 +1,1 @@
+jQuery(function($){});jQuery(function($){$("#wtfdivi004-page-start-img").prependTo($("body")).show();});jQuery(function($){if(!$('#logo-text').length){$('#logo').after("<div id=\"db_title_and_tagline\"><h1 id=\"logo-text\">2 or 3 things I Know About Her<\/h1><h5 id=\"logo-tagline\" class=\"logo-tagline\">Richard&#039;s Thoughts on Syndication &amp; Serendity<\/h5><\/div>");}});

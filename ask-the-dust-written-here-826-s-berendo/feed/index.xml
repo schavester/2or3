@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Ask The Dust written here &#8212; 826 S Berendo	</title>
+	<atom:link href="/ask-the-dust-written-here-826-s-berendo/feed/" rel="self" type="application/rss+xml" />
+	<link>/ask-the-dust-written-here-826-s-berendo/</link>
+	<description>Richard&#039;s Thoughts on Syndication &#38; Serendity</description>
+	<lastBuildDate>Sun, 03 Jun 2007 16:35:18 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+</channel>
+</rss>

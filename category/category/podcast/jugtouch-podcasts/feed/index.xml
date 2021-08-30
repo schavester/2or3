@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>jugtouch podcasts &#8211; 2 or 3 things I Know About Her</title>
+	<atom:link href="/category/category/podcast/jugtouch-podcasts/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Richard&#039;s Thoughts on Syndication &#38; Serendity</description>
+	<lastBuildDate>Sun, 05 Mar 2006 18:23:42 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+
+<image>
+	<url>/wp-content/uploads/2016/04/cropped-panelLogoPierreLeFou-150x150.jpg</url>
+	<title>jugtouch podcasts &#8211; 2 or 3 things I Know About Her</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Aunt Lizzie Part One</title>
+		<link>/lizzieonepodcast/</link>
+					<comments>/lizzieonepodcast/#respond</comments>
+		
+		<dc:creator><![CDATA[rss]]></dc:creator>
+		<pubDate>Sun, 05 Mar 2006 18:23:42 +0000</pubDate>
+				<category><![CDATA[jugtouch podcasts]]></category>
+		<guid isPermaLink="false">/lizzieonepodcast/</guid>
+
+					<description><![CDATA[<p>Aunt Lizzie was a double edged sword for Billie. She saw who Billie was, and provided a channel for expression, at her boarding house in the French Quarter, but at a price. Billie grew up very fast under Lizzie, quickly outpacing her at her own game. subscribe to the channel, stay in touch.</p>
+<p>The post <a rel="nofollow" href="/lizzieonepodcast/">Aunt Lizzie Part One</a> appeared first on <a rel="nofollow" href="/">2 or 3 things I Know About Her</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><img loading="lazy" src="https://static.flickr.com/50/108207435_ab2ff8aa33_m.jpg" alt="" width="240" height="152" align="right"/><a href="https://ia300239.us.archive.org/3/items/Aunt_Lizzie_Part_One_1/AuntLizziepartone.mp3">Aunt Lizzie</a> was a double edged sword for Billie.  She saw who Billie was, and provided a channel for expression, at her boarding house in the French Quarter, but at a price.</p>
+<p>Billie grew up very fast under Lizzie, quickly outpacing her at her own game.</p>
+<p>subscribe to the <a href="https://feeds.feedburner.com/JugtouchPodcasts">channel</a>, stay in touch.</p>
+<p>The post <a rel="nofollow" href="/lizzieonepodcast/">Aunt Lizzie Part One</a> appeared first on <a rel="nofollow" href="/">2 or 3 things I Know About Her</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/lizzieonepodcast/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

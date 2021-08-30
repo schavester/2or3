@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Adobe Arch ABQ., NM	</title>
+	<atom:link href="/adobe-arch-abq-nm/feed/" rel="self" type="application/rss+xml" />
+	<link>/adobe-arch-abq-nm/</link>
+	<description>Richard&#039;s Thoughts on Syndication &#38; Serendity</description>
+	<lastBuildDate>Mon, 16 Feb 2009 15:26:41 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+</channel>
+</rss>
